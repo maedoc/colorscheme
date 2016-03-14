@@ -59,9 +59,9 @@ hi DiffDelete ctermfg=252 ctermbg=224   guifg=#DDCCCC guibg=#FFDDDD gui=none    
 hi Ignore   ctermfg=8 guifg=#808080
 hi Identifier   ctermfg=31 guifg=#0086B3
 hi PreProc  ctermfg=247 guifg=#A0A0A0 gui=bold cterm=bold
-hi Comment  ctermfg=246 guifg=#999988
+hi Comment  ctermfg=246 guifg=#999988 gui=italic
 hi Constant ctermfg=6 guifg=#177F80 gui=none cterm=none
-hi String   ctermfg=161 guifg=#D81745
+hi String   ctermfg=161 guifg=#D81745 gui=italic
 hi Function ctermfg=88 guifg=#990000 gui=bold cterm=bold
 hi Statement    ctermfg=0 guifg=#000000 gui=bold cterm=bold
 hi Type     ctermfg=60 guifg=#445588 gui=bold   cterm=bold
